@@ -24,7 +24,7 @@ That’s all for now! I’m really excited to write some lines of code together!
 ## 📫 How to reach me ...
 - 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
 - 🌐 **Website:** [www.your-website.com](https://www.your-website.com)
-- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com)
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/axel-klim-863423313?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzxtQ2AyjS1GynV2vYTD5QA%3D%3D)
 
 ## 😊 Pronouns: ...
 - **He/Him**
