@@ -27,8 +27,6 @@ That’s all for now! I’m really excited to write some lines of code together!
 ## 😊 Pronouns: ...
 - **He/Him**
 
-## ⚡ Fun fact:
-- 🎮 You know slot cars? My nephew got a Carrera slot car racetrack, and now I want to race tiny cars myself! 😄
 <!---
 Aki1170/Aki1170 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
